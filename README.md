@@ -1,8 +1,13 @@
-# React + Vite
+# WorldWise
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A note-taking app that uses Leaflet.js to track countries you want to visit or have already visited, designed to practice real-world React development.
 
-Currently, two official plugins are available:
+## What I've Learned
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **RESTful API Basics**: Handling POST and DELETE requests with a JSON server (fake API).
+- **Leaflet Functions**: Utilizing various Leaflet functionalities for mapping.
+- **useSearchParams**: Extracting search parameters as an alternative to useState.
+- **using npmjs.com**: Utilizing a package.
+- **Nested Routes**: Implementing nested routes with React Router.
+
+Feel free to dive into the codebase to see these concepts applied in practice!
