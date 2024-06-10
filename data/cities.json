@@ -47,6 +47,18 @@
         "lng": "128.14251120240442"
       },
       "id": 98443198
+    },
+    {
+      "cityName": "Zarach",
+      "country": "Iran (Islamic Republic of)",
+      "emoji": "IR",
+      "date": "2024-06-10T00:13:42.967Z",
+      "notes": "",
+      "position": {
+        "lat": "32.13862745548459",
+        "lng": "54.53514182282377"
+      },
+      "id": 98443199
     }
   ]
 }
