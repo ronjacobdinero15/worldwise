@@ -10,7 +10,7 @@ A note-taking app that uses Leaflet.js to track countries you want to visit or h
 - **using npmjs.com**: Utilizing a package.
 - **Nested Routes**: Implementing nested routes with React Router.
 - **Context API + useReducer**: Used this common pattern.
-- **Fake API authentication**: Simulated using a FAKE_USER and simple AuthProvider().
+- **Fake API authentication**: Simulated using a hard coded FAKE_USER object with simple AuthProvider().
 - **Protecting Routes**: Against unauthorized users who is not logged in the main app.
 
 Feel free to dive into the codebase to see these concepts applied in practice!
